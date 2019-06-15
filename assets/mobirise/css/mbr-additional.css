@@ -795,11 +795,11 @@ section.form .container {
 .cid-rtuQWkyANg {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/mbr-1-1920x512.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1276.jpg");
 }
 .cid-rtuQWkyANg .mbr-overlay {
-  background-color: #000000;
-  opacity: 0.4;
+  background-color: #ffffff;
+  opacity: 0.1;
 }
 .cid-rtuQWkyANg H4 {
   color: #ffffff;
