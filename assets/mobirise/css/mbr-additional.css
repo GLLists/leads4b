@@ -8,6 +8,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -782,4 +783,24 @@ section.form .container {
 }
 #extMsg-box3-9 P {
   color: #667403;
+}
+#msg-box4-c P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 46px;
+  color: #553982;
+}
+#msg-box4-c H3 {
+  color: #b8312f;
+}
+.cid-rtuQWkyANg {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/mbr-1-1920x512.jpg");
+}
+.cid-rtuQWkyANg .mbr-overlay {
+  background-color: #000000;
+  opacity: 0.4;
+}
+.cid-rtuQWkyANg H4 {
+  color: #ffffff;
 }
