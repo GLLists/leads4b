@@ -119,7 +119,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LISTEN TO A VERY SPECIAL MESSAGE RECORDED JUST FOR YOU</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html#msg-box4-0\" data-toolbar=\"-mbrBtnMove\">LISTEN TO A VERY SPECIAL MESSAGE RECORDED JUST FOR YOU</a>",
           "_tags": [
             "Theme"
           ],
