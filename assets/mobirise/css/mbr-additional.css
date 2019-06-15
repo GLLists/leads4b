@@ -738,3 +738,7 @@ section.form .container {
   color: #ffffff;
   font-size: 30px;
 }
+#msg-box8-4 .mbr-section-title,
+#msg-box8-4 p {
+  color: #fff;
+}
