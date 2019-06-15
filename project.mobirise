@@ -221,7 +221,7 @@
             "paddingBottom": 2,
             "columns": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12767.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x12769.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -708,7 +708,7 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box4",
-          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 20px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10006.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 36px; color: rgb(184, 49, 47);\" code-editable-id=\"18\">Wondering which package is right for you? Here's a couple things to consider...</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section\" data-rv-view=\"46\" style=\"background-color: rgb(255, 255, 255); padding-top: 10px; padding-bottom: 20px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"mbr-table-md-up\">\n\n              <div class=\"mbr-table-cell mbr-right-padding-md-up mbr-valign-top col-md-7 image-size\" style=\"width: 21%;\">\n                  <div class=\"mbr-figure\"><img src=\"@PROJECT_PATH@/assets/images/sound-cloud-pic1000-1000x10008.png\"></div>\n              </div>\n\n              \n\n\n              <div class=\"mbr-table-cell col-md-5 text-xs-center text-md-left content-size\">\n                  <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 36px; color: rgb(184, 49, 47);\" code-editable-id=\"18\">Wondering which package is right for you? Here's a couple things to consider...</h3>\n                  <div class=\"lead\">\n\n                    <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n               <figure class=\"wp-block-audio aligncenter\">\n   <audio controls=\"\" src=\"http://www.fearlessdudes.info/wp-content/uploads/2019/06/goodlistgoodpricevalue.mp3\">\n            Your browser does not support the\n            <code>audio</code> element.\n    </audio>\n</figure></audio>\n\n                  </div>\n\n                  \n              </div>\n\n\n              \n\n            </div>\n        </div>\n    </div>\n\n</section>",
           "_customTemplate": true,
           "_anchor": "msg-box4-a",
           "_PHPplaceholders": [],
@@ -958,110 +958,6 @@
             }
           },
           "_anchor": "msg-box4-c"
-        },
-        {
-          "alias": "formbuilder",
-          "_isSecondary": true,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            ".mbr-overlay": {
-              "background-color": "@overlayColor",
-              "opacity": "@overlayOpacity"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@customStyle)": {
-              ".form-control, .field-input": {
-                "padding": "0.5rem",
-                "background-color": "@fieldColor",
-                "border-color": "@borderColor",
-                "color": "@formText",
-                "transition": "0.4s",
-                "box-shadow": "none",
-                "outline": "none",
-                "input::-webkit-input-placeholder, textarea::-webkit-input-placeholder": {
-                  "color": "@formPlaceholder"
-                },
-                "input:-moz-placeholder, textarea:-moz-placeholder": {
-                  "color": "@formPlaceholder"
-                },
-                "&:hover, &:focus": {
-                  "background-color": "@fieldHover",
-                  "border-color": "@borderHover",
-                  "color": "contrast(@formText, #000000, #ffffff, 30%)",
-                  "box-shadow": "none",
-                  "outline": "none",
-                  "input::-webkit-input-placeholder, textarea::-webkit-input-placeholder": {
-                    "color": "contrast(@formPlaceholder, #000000, #ffffff, 30%)"
-                  },
-                  "input:-moz-placeholder, textarea:-moz-placeholder": {
-                    "color": "contrast(@formPlaceholder, #000000, #ffffff, 30%)"
-                  }
-                }
-              },
-              ".jq-number__spin:hover, .jq-number__spin:focus": {
-                "background-color": "@fieldHover",
-                "border-color": "@borderHover",
-                "color": "contrast(@formText, #000000, #ffffff, 30%)",
-                "box-shadow": "none",
-                "outline": "none"
-              },
-              ".jq-number__spin": {
-                "background-color": "@fieldColor",
-                "border-color": "@borderColor",
-                "color": "@formText",
-                "transition": "0.4s",
-                "box-shadow": "none",
-                "outline": "none"
-              },
-              ".jq-selectbox li, .jq-selectbox li": {
-                "background-color": "@fieldColor",
-                "color": "contrast(@fieldColor, #000000, #ffffff, 30%)"
-              },
-              ".jq-selectbox li:hover, .jq-selectbox li.selected": {
-                "background-color": "@fieldHover",
-                "color": "contrast(@fieldHover, #000000, #ffffff, 30%)"
-              },
-              ".jq-selectbox:hover .jq-selectbox__trigger-arrow, .jq-number__spin.minus:hover:after, .jq-number__spin.plus:hover:after": {
-                "border-top-color": "@fieldColor",
-                "border-bottom-color": "@fieldColor"
-              },
-              ".jq-selectbox .jq-selectbox__trigger-arrow, .jq-number__spin.minus:after, .jq-number__spin.plus:after": {
-                "border-top-color": "@fieldHover",
-                "border-bottom-color": "@fieldHover"
-              }
-            },
-            "& when (@customStyle), (@disableElements)": {
-              "input::-webkit-clear-button": {
-                "display": "none"
-              },
-              "input::-webkit-inner-spin-button": {
-                "display": "none"
-              },
-              "input::-webkit-outer-spin-button": {
-                "display": "none"
-              },
-              "input::-webkit-calendar-picker-indicator": {
-                "display": "none"
-              }
-            },
-            "H4": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "formbuilder",
-          "_customHTML": "<section class=\"form\" group=\"Form\" plugins=\"formstyler, datepicker\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Style</header>\n        <input type=\"checkbox\" name=\"customStyle\" title=\"Custom Style\">\n        <input type=\"checkbox\" name=\"disableElements\" title=\"Disable Control\">\n        <input type=\"color\" name=\"fieldColor\" title=\"Field\" value=\"#ffffff\" condition=\"customStyle\">\n        <input type=\"color\" name=\"fieldHover\" title=\"Field Hover\" value=\"#efefef\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderColor\" title=\"Border\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderHover\" title=\"Border Hover\" value=\"#000000\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formText\" title=\"Text\" value=\"#000000\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formPlaceholder\" title=\"Placeholders\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"@PROJECT_PATH@/assets/images/mbr-1920x1276.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.1\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"(overlay && bg.type=='image')\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div mbr-form class=\"col-lg-8 mx-auto mbr-form\">\n<!--Formbuilder Form-->\n<form action=\"support@bestproleads.com\" name=\"Contact Form Pg 4b\" method=\"POST\" class=\"mbr-form form-with-styler\">\n<div class=\"form-row\">\n<div hidden=\"hidden\" data-form-alert class=\"alert alert-success col-12\">Thanks for filling out the form!</div>\n<div hidden=\"hidden\" data-form-alert-danger class=\"alert alert-danger col-12\">Oops...! some problem!</div>\n</div>\n<div class=\"dragArea form-row\">\n<div class=\"col-lg-12 col-md-12 col-sm-12\">\n<h4 mbr-theme-style=\"display-5\" class=\"mbr-fonts-style\">BEST PRO LEADS CONTACT FORM</h4>\n</div>\n<div class=\"col-lg-12 col-md-12 col-sm-12\">\n<hr>\n</div>\n<div data-for=\"name\" class=\"col form-group\">\n<input type=\"text\" name=\"name\" placeholder=\"Name\" data-form-field=\"name\" mbr-theme-style=\"display-7\" class=\"form-control\" required=\"required\" value>\n</div>\n<div data-for=\"email\" class=\"col form-group\">\n<input type=\"email\" name=\"email\" placeholder=\"Email\" data-form-field=\"email\" mbr-theme-style=\"display-7\" class=\"form-control\" required=\"required\" value>\n</div>\n<div data-for=\"phone\" class=\"col form-group\">\n<input type=\"tel\" name=\"phone\" placeholder=\"Phone\" pattern=\"[0-9]{3}-[0-9]{3}-[0-9]{4}\" data-form-field=\"phone\" mbr-theme-style=\"display-7\" class=\"form-control\" value>\n</div>\n<div data-for=\"message\" class=\"col-lg-12 col-md-12 col-sm-12 form-group\">\n<textarea name=\"message\" placeholder=\"Message\" data-form-field=\"message\" mbr-theme-style=\"display-7\" class=\"form-control\"></textarea>\n</div>\n<div class=\"col form-group\" data-for=\"Which package gets you the most excited?\">\n<select name=\"Which package gets you the most excited?\" data-form-field=\"Which package gets you the most excited?\" mbr-theme-style=\"display-7\" class=\"form-control\">\n<option value=\"Which package gets you the most excited\">Which package gets you the most excited</option>\n<option value=\"20 lists - \">20 lists - </option>\n<option value=\"10 lists -\">10 lists -</option>\n<option value=\"5 lists -\">5 lists -</option>\n<option value=\"3 lists -\">3 lists -</option>\n</select>\n</div>\n<div mbr-buttons=\"true\" mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\" class=\"col\">\n<a data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\" type=\"submit\" class=\"btn btn-primary\">Submit</a>\n</div>\n</div>\n</form><!--Formbuilder Form-->\n</div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rtuQWkyANg",
-          "_anchor": "formbuilder-d",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
         }
       ]
     }
