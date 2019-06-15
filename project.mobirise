@@ -47,7 +47,7 @@
             },
             ".mbr-section-title": {
               "color": "#222222",
-              "font-size": "80px",
+              "font-size": "100px",
               "text-align": "center",
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
@@ -56,7 +56,7 @@
               "color": "#af0000"
             },
             ".lead P": {
-              "font-size": "30px"
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -78,7 +78,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Thank You\r",
+          "title": "Thank You\n",
           "text": "<p>YOU JUST MADE A VERY SMART DECISION</p>",
           "_tags": [
             "Theme"
